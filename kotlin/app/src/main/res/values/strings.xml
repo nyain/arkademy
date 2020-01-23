@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArkMobile</string>
+    <string name="masuk">Masuk</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>

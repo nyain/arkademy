@@ -1,0 +1,49 @@
+body{
+    background: #f9f7fc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase
+}
+
+#teks-panjang{
+    text-align: justify;
+    text-indent: 30px;
+    letter-spacing: 5px;
+    line-height: 20px;
+}
+
+
+.menu{
+    display: inline-block;
+    /* height: 50px;
+    width: 100px; */
+    text-decoration: none;
+    border: 3px solid black;
+    padding: 10px;
+
+}
+
+.menu:link{
+    background: grey;
+    color: white;
+}
+
+.menu:visited{
+    background: grey;
+    color: white;   
+}
+
+.menu:hover{
+    background: plum;
+}
+
+.menu:active{
+    background: wheat;
+}
